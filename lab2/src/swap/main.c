@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#include "swap.c"
+
 #include "swap.h"
 
 int main()
